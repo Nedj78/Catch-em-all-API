@@ -6,7 +6,7 @@ Responsiveness: medium and wide screens.
 
 Framework: no
 
-Project: retrieve through the API all the pokemons by batches of 15 with each click.
+Project: retrieving through the API all the pokemons by batches of 15 with each click.
 
 Backend host server: [PokéAPI](https://pokeapi.co/) 
 
