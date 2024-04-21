@@ -1,4 +1,4 @@
-Description: one of the achieved projects as part of La Capsule coding bootcamp.
+Description: one of the achieved projects as part of [La Capsule](https://www.lacapsule.academy/code-for-business/part-time) coding bootcamp.
 
 Stack : html/css/javascript
 
