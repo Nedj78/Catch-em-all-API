@@ -10,4 +10,4 @@ Project: retrieving through the API all the pokemons by batches of 15 items with
 
 Backend host server: [PokéAPI](https://pokeapi.co/) 
 
-Frontend host server: jekyll (Github pages)
+Frontend host server: [jekyll (Github pages)](https://nedj78.github.io/Go-catch-em-all/)
